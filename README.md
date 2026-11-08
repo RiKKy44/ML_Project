@@ -1,0 +1,2 @@
+# IML Project
+This project uses machine learning to decide whether a person is allowed to enter based on their voice. It converts audio recordings into spectrograms and trains CNN models to classify speakers as authorized or unauthorized.
